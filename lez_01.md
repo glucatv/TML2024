@@ -46,14 +46,14 @@ $L(g, c)$ indica quanto si è  penalizzati se l'ipotesi ritornata è $g$ ma la r
 
 - Binaria
 
-    $$
-    L(g,c) = \left\{
-    \begin{array}{lll}
-    0& &\mbox{if}\ c \equiv g\\
-    1& &\mbox{otherwise}
-    \end{array}
-    \right.
-    $$
+$$
+L(g,c) = \left\{
+\begin{array}{lll}
+0& &\mbox{if}\ c \equiv g\\
+1& &\mbox{otherwise}
+\end{array}
+\right.
+$$
   
 - Lineare
     $$L(g,c) = |g-c|$$
