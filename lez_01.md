@@ -45,6 +45,7 @@ Dato un insieme di esempio $x_1, x_2\ldots, x_n$ nello spazio $R^d$, trovare un 
 $L(g, c)$ indica quanto si è  penalizzati se l'ipotesi ritornata è $g$ ma la risposta corretta è $c$. Tipiche loss-function
 
 - Binaria
+- 
     $$
     L(g,c) = \left\{
     \begin{array}{lll}
