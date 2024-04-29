@@ -54,6 +54,7 @@ $L(g, c)$ indica quanto si è  penalizzati se l'ipotesi ritornata è $g$ ma la r
     \end{array}
     \right.
     $$
+  
 - Lineare
     $$L(g,c) = |g-c|$$
 - Quadratica
