@@ -28,3 +28,14 @@
 
 - Come riferimento a Python si suggerisce [Think Python](https://greenteapress.com/thinkpython/thinkpython.html)
 - [Lezione 2](lez_02.ipynb)
+
+### Lezione 3 del 6 maggio 2024
+
+- Classificazione lineare
+- L'algoritmo *perceptron*
+- Implementazione in Python e prime sperimentazioni
+
+#### Materiale didattico
+
+- [Lezione 3](lez_03.ipynb)
+
