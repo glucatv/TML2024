@@ -39,3 +39,12 @@
 
 - [Lezione 3](lez_03.ipynb)
 
+### Lezione 4 del 10 maggio 2024 con laboratorio 1
+
+- Dimostrazione di convergenza dell'algoritmo perceptron
+- Laboratorio 1
+
+#### Materiale didattico
+
+- [Lezione 4 + laboratorio 1](lez_04+lab_01.ipynb)
+
