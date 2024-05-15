@@ -1,4 +1,4 @@
-# Topics in Machine LEarning
+# Topics in Machine Learning
 
 ## Diario delle lezioni
 
