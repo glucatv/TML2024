@@ -48,3 +48,13 @@
 
 - [Lezione 4 + laboratorio 1](lez_04+lab_01.ipynb)
 
+### Lezione 5 del 14 maggio
+
+- Laboratorio 1, seconda parte.
+- Un problema di classificazione di dati geospaziali
+- Introduzione al dati geospaziali (coordinate geografiche e proiettate)
+- La libreria `geopandas`: importazione di `shapefile`; il tipo di dato `GeoDataFrame`; conversione tra sistemi di riferimento delle coordinate.
+
+#### Materiale didattico
+
+- [Lezione 5](lez_05.ipynp)
