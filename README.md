@@ -57,4 +57,4 @@
 
 #### Materiale didattico
 
-- [Lezione 5](lez_05.ipynp)
+- [Lezione 5](lez_05.ipynb)
