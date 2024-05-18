@@ -58,3 +58,12 @@
 #### Materiale didattico
 
 - [Lezione 5](lez_05.ipynb)
+
+### Lezione 5 del 17 maggio
+
+  - Classificazione di traiettorie gps: definizione delle features basate su funzioni della distanza dalla curva di punti di riferimento
+  - Valutazione del modello ottunuto con l'algoritmo percepron: validazione incrociata e test con diverse funzioni della distanza
+
+#### Materiale didattico
+
+- [Lezione 6](lez_06.ipynb)
