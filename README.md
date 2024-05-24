@@ -67,3 +67,14 @@
 #### Materiale didattico
 
 - [Lezione 6](lez_06.ipynb)
+
+### Lezione 7 del 20 maggio
+
+- Classificatore lineare logistico
+- L'algoritmo Gradient Descent
+- Implementazione in Python
+
+#### MAteriale didattico
+
+- [Lezione 7](lez_07.ipynb)
+
