@@ -74,7 +74,13 @@
 - L'algoritmo Gradient Descent
 - Implementazione in Python
 
-#### MAteriale didattico
+#### Materiale didattico
 
 - [Lezione 7](lez_07.ipynb)
+
+## Lezione 8 del 24 maggio - Laboratorio 2
+
+- [Lezione 8](lez_08.ipynb)
+
+
 
