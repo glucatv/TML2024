@@ -80,7 +80,20 @@
 
 ## Lezione 8 del 24 maggio - Laboratorio 2
 
+- Implementazione delle funzioni: `logistic`, `log_loss` e gradiente numerico per `log_loss`
+
+#### Materiale didattico
+
 - [Lezione 8](lez_08.ipynb)
+
+## Lezione 9 del 27 maggio
+
+- L'algoritmo della discesa del gradiente per la regressione logistica
+
+#### Materiale didattico
+
+- [Lezione 9](lez_09.ipynb)
+   
 
 
 
