@@ -96,7 +96,7 @@
 
 ## Lezione 10 del 31 maggio - Laboratorio 3
 
-- [Esercizi][lez_10.ipynb]
+- [Esercizi](lez_10.ipynb)
    
 
 
