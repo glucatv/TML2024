@@ -93,6 +93,10 @@
 #### Materiale didattico
 
 - [Lezione 9](lez_09.ipynb)
+
+## Lezione 10 del 31 maggio - Laboratorio 3
+
+- [Esercizi][lez_10.ipynb]
    
 
 
