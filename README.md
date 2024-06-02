@@ -96,6 +96,10 @@
 
 ## Lezione 10 del 31 maggio - Laboratorio 3
 
+- Implementazione dell'algoritmo della discesa del gradiente per la lunzione `log_loss` che utilizza il gradiente al posto del gradiente numerico
+- L'algoritmo *stocastic gradient descent*: implementazione
+- Manipolazione di punti e distanze con `GeoPandas`
+
 - [Esercizi](lez_10.ipynb)
    
 
