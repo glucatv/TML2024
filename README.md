@@ -102,6 +102,14 @@
 
 - [Esercizi](lez_10.ipynb)
    
+## Lezione 11 del 4 giugno
 
+-L'algoritmo Density-Based Spatial Clustering of Applications with Noise (DBSCAN)
+  - Descrizione del cluster
+  - Descrizione dell'algoritmo
+  - Implementazione
 
+#### Materiale didattico
+
+- [Lezione 11](lez_11.ipynb)
 
