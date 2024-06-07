@@ -113,3 +113,9 @@
 
 - [Lezione 11](lez_11.ipynb)
 
+## Lezione 12 del 7 giugno - Laboratorio 4
+
+- Implementazione dell'algoritmo *stocastic gradient descent* proposto nel Laboratorio 3
+- Esercitazione sull'algoritmo DBSCAN ed elaborazione dell'output
+- [Esercizi](lez_12.ipynb)
+
