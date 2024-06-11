@@ -119,3 +119,12 @@
 - Esercitazione sull'algoritmo DBSCAN ed elaborazione dell'output
 - [Esercizi](lez_12.ipynb)
 
+## Lezione 13 del 10 giugno
+
+- Correzione esercizio lezione precedente
+- Migliorare le performace di DBSCAN usando la struttura dati *k-dimensional tree* (KD-Tree)
+- L'algoritmo *Density-Based Random Seeds* (DBRS) e confronto con DBSCAN
+
+#### Materiale didattico
+
+- [Lezione 13](lez_13.ipynb)
