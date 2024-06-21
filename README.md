@@ -128,3 +128,7 @@
 #### Materiale didattico
 
 - [Lezione 13](lez_13.ipynb)
+
+## Lezione 14 del 14 giugno
+
+Discussione sull'esame
